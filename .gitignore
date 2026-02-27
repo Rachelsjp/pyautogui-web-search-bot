@@ -1,0 +1,6 @@
+pyautoguirach/
+__pycache__/
+*.pyc
+Lib/
+Scripts/
+Include/
